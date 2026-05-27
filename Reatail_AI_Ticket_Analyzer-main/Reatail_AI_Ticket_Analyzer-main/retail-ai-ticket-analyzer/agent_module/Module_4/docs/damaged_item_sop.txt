@@ -1,0 +1,314 @@
+# Standard Operating Procedure (SOP) for Damaged Item Handling in Retail Support Operations
+
+**Document Title:** Damaged Item Handling SOP
+**Document ID:** RSP-OPS-DMG-001
+**Version:** 1.0
+**Effective Date:** 2023-10-27
+**Review Date:** 2024-10-27
+**Owner:** Head of Retail Support Operations
+
+---
+
+## 1. Purpose
+
+This Standard Operating Procedure (SOP) outlines the standardized process for identifying, verifying, processing, and resolving cases involving damaged items received by customers or identified within our operational flow. The primary objectives are to:
+*   Ensure consistent and fair resolution for customers experiencing product damage.
+*   Minimize financial loss due to damaged goods through efficient processing and data capture.
+*   Maintain accurate inventory records and facilitate effective warehouse coordination.
+*   Uphold brand reputation and customer satisfaction.
+*   Provide a clear framework for all retail support personnel.
+
+## 2. Scope
+
+This SOP applies to all retail support operations personnel, including Customer Service Representatives (CSRs), Team Leads, Supervisors, and Managers, as well as relevant warehouse and logistics teams involved in the return, replacement, and disposition of damaged items for customer orders placed through any of our sales channels (e-commerce, in-store pickup, etc.).
+
+## 3. Definitions
+
+*   **Damaged Item:** A product that is physically impaired, non-functional, or otherwise not in its intended condition upon receipt by the customer or during internal handling, making it unfit for its primary purpose or resale.
+*   **Customer Support System (CSS):** The CRM (e.g., Zendesk, Salesforce Service Cloud) used for logging customer interactions and managing service tickets.
+*   **Enterprise Resource Planning (ERP):** The system (e.g., SAP, Oracle, NetSuite) used for managing inventory, orders, and financial transactions.
+*   **Warehouse Management System (WMS):** The system used by the warehouse for managing inventory, picking, packing, and shipping.
+*   **SLA (Service Level Agreement):** A commitment between the service provider and the customer (internal or external) regarding the level of service to be delivered.
+*   **Disposition:** The final action taken for a damaged item (e.g., return to vendor, scrap, repair, return to stock).
+*   **RMA (Return Merchandise Authorization):** A unique identifier and process for authorizing a product return.
+*   **Proof of Damage (POD):** Visual evidence (photos, videos) or detailed descriptions provided by the customer or internal staff indicating the damage.
+
+## 4. Roles & Responsibilities
+
+*   **Customer Service Representative (CSR):**
+    *   Initial point of contact for customer damage reports.
+    *   Verify damage, gather information, and document details in the CSS.
+    *   Initiate replacement or refund workflows.
+    *   Communicate with customers and provide updates.
+    *   Log all actions and communications.
+*   **Team Lead/Supervisor:**
+    *   Review complex or escalated damage cases.
+    *   Approve exceptions or high-value replacements/refunds.
+    *   Provide guidance and training to CSRs.
+    *   Monitor SLA adherence.
+*   **Warehouse Operations Team:**
+    *   Receive, inspect, and process returned damaged items.
+    *   Process outgoing replacement orders.
+    *   Adjust inventory records based on damaged items received or shipped.
+    *   Provide feedback on packaging or handling issues.
+*   **Logistics/Shipping Partner:**
+    *   Handle return shipping of damaged goods.
+    *   Investigate transit damage claims.
+*   **Finance Department:**
+    *   Process refunds and credit memos.
+    *   Track costs associated with damaged goods.
+*   **Quality Assurance (QA)/Product Team:**
+    *   Analyze trends in damage reports.
+    *   Investigate root causes of recurrent product damage.
+    *   Implement corrective actions (e.g., improved packaging, manufacturing review).
+
+---
+
+## 5. Procedure for Damaged Item Handling
+
+### 5.1. Phase 1: Initial Customer Contact & Verification
+
+**Objective:** To accurately identify and document the damage and gather necessary information.
+
+**Steps:**
+
+1.  **Receive Damage Report (CSR):**
+    *   Customer contacts Retail Support via phone, email, chat, or in-store with a damaged item complaint.
+    *   CSR records the interaction in the CSS, creating a new service ticket.
+    *   **Required Information:**
+        *   Customer Name, Order ID, Contact Information
+        *   Item SKU(s), Product Name, Quantity of Damaged Item(s)
+        *   Date of Purchase and Date of Receipt
+        *   Detailed description of the damage (e.g., "cracked screen," "missing part," "box crushed").
+        *   How the damage was discovered.
+
+2.  **Request Proof of Damage (POD) (CSR):**
+    *   CSR politely requests clear photographic or video evidence of the damage.
+    *   **Minimum POD Requirements:**
+        *   Overall photo of the product showing the damage.
+        *   Close-up photo(s) of the specific damaged area.
+        *   Photo of the original packaging (inner and outer box) showing any damage to the packaging itself.
+        *   Photo of the shipping label on the package.
+    *   **Guidance:** Instruct customers on how to submit photos (email attachment, upload to portal).
+    *   *If the customer cannot provide POD:* CSR notes this in the CSS and escalates to a Team Lead for review and potential alternative verification methods (e.g., detailed description, trust-based resolution for low-value items).
+
+3.  **Preliminary Assessment & Verification (CSR):**
+    *   CSR reviews the provided information and POD.
+    *   **Verification Checklist:**
+        *   Does the damage appear consistent with the customer's description?
+        *   Is the item clearly damaged and not merely a perceived defect or operational misunderstanding?
+        *   Is the damage minor (cosmetic, easily overlooked) or significant (impacting functionality/safety)?
+        *   Is the item still under warranty or within the return policy period?
+    *   **Decision Point:**
+        *   **Clear Damage, Meets Policy:** Proceed to Step 5.2 (Disposition Decision).
+        *   **Ambiguous/Insufficient POD:** Request further clarification or additional POD from the customer.
+        *   **Suspected Customer-Induced Damage:** Politely inform the customer that the damage appears to be from use or mishandling. Offer troubleshooting steps if applicable. If a replacement/refund is still insisted upon, escalate to Team Lead (see 5.4).
+        *   **High-Value Item / Suspected Fraud:** Immediately escalate to Team Lead (see 5.4) for review before proceeding.
+
+4.  **Log All Details (CSR):**
+    *   Ensure all communications, POD, and preliminary assessments are meticulously logged in the CSS ticket.
+    *   Update the ticket status to "Awaiting Disposition Decision."
+
+### 5.2. Phase 2: Disposition Decision & Warehouse Coordination
+
+**Objective:** To determine the most appropriate resolution for the damaged item and initiate necessary internal processes.
+
+**Steps:**
+
+1.  **Determine Disposition (CSR/Team Lead):**
+    *   Based on the verification (5.1.3) and company policy, decide on the best course of action.
+    *   **Available Dispositions:**
+        *   **A. Replacement:** Ship a new, identical item to the customer.
+        *   **B. Refund:** Process a full or partial refund to the customer.
+        *   **C. Repair:** Arrange for the item to be repaired (internal or external vendor). Less common for retail support, typically for specific product categories.
+        *   **D. No Action / Decline:** If damage is customer-induced, outside policy, or not verified. (Requires Team Lead approval).
+    *   **Return Decision:** For A, B, or C, decide if the damaged item needs to be returned to the warehouse.
+        *   **Return Required:** Typically for high-value items, potential root cause analysis, or if repair is an option.
+        *   **No Return Required (Scrap/Discard at Customer Site):** For low-value items, hazardous items, or items where return logistics cost outweighs product value. (Requires Team Lead approval for non-standard items).
+
+2.  **Initiate Warehouse Coordination (CSR):**
+    *   **If Return Required:**
+        *   Generate an RMA in the ERP/WMS.
+        *   Issue a prepaid return shipping label (email to customer).
+        *   Provide clear instructions to the customer on how to package and return the item.
+        *   Inform the customer of the expected timeline for receiving the returned item and processing the resolution (replacement/refund).
+        *   Create a dedicated "Damaged Return" task/note in the WMS for the warehouse team, including: Order ID, RMA number, Item SKU, Quantity, Reason for Return (Damaged), and expected disposition upon receipt (e.g., "Inspect & Scrap," "Inspect & Return to Vendor").
+    *   **If No Return Required:**
+        *   Note "No Return Required - Customer to Discard" in the CSS ticket.
+        *   No RMA needed for the item itself, but proceed with replacement/refund.
+
+3.  **Process Replacement (If Applicable - CSR):**
+    *   Create a new order in the ERP for the replacement item.
+    *   **Crucial:** Ensure the replacement order is marked as "No Charge" or "Replacement Order" to prevent double billing.
+    *   Specify standard shipping unless expedited shipping is approved by Team Lead (e.g., for severe customer inconvenience).
+    *   Communicate the new order number and tracking information to the customer once available.
+    *   Update the CSS ticket status to "Replacement Sent - Awaiting Delivery."
+
+4.  **Process Refund (If Applicable - CSR):**
+    *   Initiate the refund process in the ERP, ensuring the correct amount is credited.
+    *   Confirm the refund has been initiated and provide the customer with the expected timeline for funds to appear in their account (e.g., 5-10 business days).
+    *   Update the CSS ticket status to "Refund Processed."
+
+5.  **Warehouse Actions upon Damaged Return Receipt:**
+    *   Warehouse team receives returned item, identifies it via RMA number.
+    *   Inspects item against reported damage.
+    *   **Confirms Damage:** Moves item to a designated "Damaged Goods" area. Adjusts inventory (removes from salable stock, adds to damaged stock). Logs details in WMS. Follows disposition instructions (e.g., scrap, return to vendor).
+    *   **Damage Not Found / Different Damage:** Notifies Retail Support Operations (Team Lead) immediately for further instructions. May result in customer chargeback for return shipping or non-refund if damage was misrepresented.
+    *   Updates WMS and ERP with final disposition.
+
+### 5.3. Phase 3: Resolution & Follow-up
+
+**Objective:** To ensure the customer receives the agreed-upon resolution and the case is properly closed.
+
+**Steps:**
+
+1.  **Replacement Delivery Confirmation (CSR):**
+    *   Monitor tracking for replacement orders.
+    *   Once delivered, send a follow-up email/message to the customer to confirm receipt and satisfaction.
+    *   If any issues with the replacement, restart the process from 5.1.1.
+
+2.  **Refund Confirmation (CSR):**
+    *   Monitor ERP for refund completion.
+    *   Send a follow-up email/message to the customer confirming the refund has been processed.
+
+3.  **Customer Communication (CSR):**
+    *   Throughout the process, proactively communicate updates to the customer regarding their replacement tracking, refund status, or return progress.
+    *   Address any further customer inquiries promptly.
+
+4.  **Case Closure (CSR):**
+    *   Once the resolution is complete and the customer is satisfied (or the final decision communicated), close the CSS ticket.
+    *   Ensure all necessary audit logging is complete.
+
+### 5.4. Phase 4: Escalation Rules
+
+**Objective:** To define clear paths for resolving complex, high-impact, or sensitive damaged item cases.
+
+**Escalate to Team Lead/Supervisor when:**
+
+*   Customer expresses significant dissatisfaction or threatens negative reviews/social media exposure.
+*   The item value exceeds a predefined threshold (e.g., $200 USD).
+*   Proof of Damage (POD) is insufficient, ambiguous, or raises suspicion of customer-induced damage/fraud.
+*   Customer refuses to provide POD for a non-low-value item.
+*   Repeated damage reports for the same customer or product within a short period.
+*   Logistics partner disputes damage claim or delivery status.
+*   System errors prevent the normal processing of replacement/refund/RMA.
+*   The CSR is unsure about the correct policy application or disposition.
+*   Any safety concern related to the damaged product.
+
+**Escalate to Department Manager/Head of Operations when:**
+
+*   Team Lead/Supervisor cannot resolve an escalated issue.
+*   Customer disputes the Team Lead's decision.
+*   Legal implications or compliance issues are identified.
+*   Damage involves a high-profile customer or potential brand reputation risk.
+*   Significant financial implications (e.g., bulk damage, recurring high-value replacements).
+*   Potential product recalls or widespread quality issues are suspected.
+
+**Escalation Path:**
+1.  **CSR -> Team Lead/Supervisor:** Via internal chat, dedicated escalation channel, or flag in CSS.
+2.  **Team Lead/Supervisor -> Department Manager/Head of Operations:** Via email with full case details, CSS link, and recommended action.
+
+---
+
+## 6. Service Level Agreement (SLA) Requirements
+
+**Objective:** To ensure timely and efficient resolution of damaged item cases.
+
+*   **Customer-Facing SLAs:**
+    *   **Initial Response to Damage Report:** Within 4 hours (during business hours) or 24 hours (outside business hours).
+    *   **Damage Verification & Disposition Decision:** Within 1 business day of receiving sufficient POD.
+    *   **Replacement Order Placed / Refund Initiated:** Within 1 business day of disposition decision.
+    *   **Customer Communication Updates:** Every 2 business days until resolution for open cases.
+    *   **Resolution Time (from initial report to replacement delivery/refund completion):** Target of 5-7 business days for standard cases.
+
+*   **Internal Operational SLAs:**
+    *   **Warehouse - Damaged Return Receipt & Initial Scan:** Within 4 hours of physical receipt.
+    *   **Warehouse - Damaged Item Inspection & Disposition:** Within 1 business day of receipt.
+    *   **Warehouse - Replacement Order Fulfillment:** Same day for orders received by 1 PM local warehouse time, next business day otherwise.
+    *   **Finance - Refund Processing:** Within 1 business day of request from Retail Support.
+
+*   **SLA Monitoring:** Team Leads and Supervisors will regularly review CSS reports to monitor adherence to these SLAs. Non-compliance will trigger root cause analysis and corrective actions.
+
+---
+
+## 7. Audit Logging
+
+**Objective:** To maintain a complete, transparent, and auditable record of every damaged item case for accountability, compliance, analysis, and process improvement.
+
+**All steps, communications, and decisions related to a damaged item case must be logged in the Customer Support System (CSS) and relevant ERP/WMS.**
+
+**Required Audit Log Entries:**
+
+1.  **Case Initiation:**
+    *   Date and time of initial customer contact.
+    *   Channel of contact (phone, email, chat, in-store).
+    *   Agent who created the ticket.
+    *   Unique ticket ID.
+2.  **Customer & Order Details:**
+    *   Customer name, contact info.
+    *   Order ID, SKU(s) of damaged item(s), quantity.
+3.  **Damage Verification:**
+    *   Date and time POD was received.
+    *   Link/attachment to POD (photos/videos).
+    *   Detailed description of reported damage and verified damage.
+    *   Agent who performed the verification.
+    *   Verification outcome (verified, ambiguous, customer-induced, suspected fraud).
+4.  **Disposition Decision:**
+    *   Date and time of decision.
+    *   Type of resolution (Replacement, Refund, Repair, Decline, etc.).
+    *   Decision regarding return of damaged item (Return Required / No Return Required).
+    *   Agent/Team Lead who made the decision.
+    *   Approver (if escalated).
+5.  **Warehouse & Logistics Actions:**
+    *   RMA number issued (if applicable).
+    *   Date return label sent to customer.
+    *   Return tracking number (if applicable).
+    *   Date damaged item received by warehouse.
+    *   Warehouse inspection findings and final disposition (e.g., Scrapped, Returned to Vendor).
+    *   Inventory adjustment details.
+6.  **Resolution Processing:**
+    *   Replacement order ID and tracking number (if applicable).
+    *   Date replacement order placed.
+    *   Refund transaction ID, amount, and date processed (if applicable).
+    *   Agent who processed the resolution.
+7.  **Communications:**
+    *   Date and time of every customer interaction (sent/received).
+    *   Summary of communication content.
+    *   Internal notes regarding discussions with Team Leads, warehouse, etc.
+8.  **Escalations:**
+    *   Date and time of escalation.
+    *   Reason for escalation.
+    *   Person/department escalated to.
+    *   Outcome of escalation.
+9.  **Case Closure:**
+    *   Date and time of case closure.
+    *   Agent who closed the case.
+    *   Reason for closure (e.g., "Customer Satisfied," "Resolution Complete").
+
+**Audit Frequency:** Regular audits (e.g., quarterly) will be conducted by QA or management to ensure compliance with this SOP and data integrity.
+
+---
+
+## 8. Continuous Improvement
+
+*   **Monthly Review:** Team Leads will review damage trends, common issues, and SLA performance in monthly meetings with their teams.
+*   **Quarterly Management Review:** Department Managers will review aggregated damage data (cost, volume, type of damage, root causes) to identify systemic issues and collaborate with QA/Product/Logistics teams for preventative measures (e.g., packaging improvements, vendor quality checks).
+*   **SOP Review:** This SOP will be reviewed and updated annually, or as needed, based on feedback, process changes, or new system implementations.
+
+---
+
+## 9. Related Documents
+
+*   Customer Return Policy
+*   Product Warranty Guidelines
+*   Fraud Prevention Policy
+*   Customer Service Communication Guidelines
+*   Warehouse Inbound/Outbound SOPs
+
+---
+
+## 10. Revision History
+
+| Version | Date           | Author                       | Changes Made                                                                  |
+| :------ | :------------- | :--------------------------- | :---------------------------------------------------------------------------- |
+| 1.0     | 2023-10-27     | [Your Name/Department]       | Initial Release                                                               |
