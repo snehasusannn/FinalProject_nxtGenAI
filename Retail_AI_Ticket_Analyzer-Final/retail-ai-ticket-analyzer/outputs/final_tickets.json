@@ -1,0 +1,54 @@
+[
+  {
+    "ticket_id": "TKT-123",
+    "channel": "app",
+    "store_id": "STR-567",
+    "customer_id": "7893",
+    "customer_name": "MADHU",
+    "issue_description": "Customer received a different product than ordered, and the item value is very high.",
+    "timestamp": "2026-05-26T07:00:55.226687",
+    "category": "Technical Support",
+    "confidence_score": 0.5,
+    "priority": "HIGH",
+    "sentiment": "Frustrated",
+    "summary": "Customer received an incorrect, high-value product instead of the one ordered.",
+    "customer_context": "Standard Tier. No priority profile found.",
+    "severity": "high",
+    "severity_reason": "The issue involves a high-value item sent incorrectly, which poses a significant customer impact and potential revenue loss for a single customer.",
+    "escalate": false,
+    "retrieved_docs": [
+      {
+        "doc_id": "sop_order_delay_chunk_103",
+        "content": "Orders:** Orders with a total merchandise value exceeding **$1,000 USD** (or local currency equivalent), regardless of delay duration, to ensure heightened oversight. * **VIP/Key Account Customers:** Any delay impacting a customer flagged as a VIP, Key Account, or Loyalty Program Platinum/Diamond tier member. * **Repeat Delays:** The customer has experienced prior, unresolved delays with previous orders or the same order faces multiple, consecutive delays. * **Compensation Authority:** Resolution requires compensation (e.g., significant discount, free product) exceeding the Customer Care Associate's authorized limit as per **[Policy-CC-003: Customer Compensation Guidelines]**. * **Systemic Issue Indication:** The Associate identifies a potential systemic issue (e.g., multiple orders from the same FC experiencing similar delays) that may impact a wider customer base. **4.2 Escalation to Department Manager (e.g., Head of Customer Care, Director of E-commerce Operations):** Escalate to the respective Department Manager when: * **Unresolved After Team Lead Intervention:** The issue remains unresolved or the customer remains highly dissatisfied after the Team Lead has attempted resolution. * **Significant Financial Impact:** Resolution requires compensation or financial outlay exceeding the Team Lead's authorized limit (refer to **[Policy-CC-003]**). * **Media or Legal Inquiries:** Any direct or indirect inquiry from media outlets, consumer protection agencies, or threats of legal action.",
+        "score": 0.6199
+      },
+      {
+        "doc_id": "sop_product_defect_chunk_111",
+        "content": "manufacturing quality. [PAGE 3] * **Examples:** Awkward ergonomics, components that easily detach, designs prone to breaking under normal use, software bugs in smart devices, products that do not fulfill their advertised function due to design limitations. **2.5 Packaging Issues** Defects where the primary product is intact, but the packaging is compromised in a way that significantly impacts marketability or product integrity (e.g., inability to protect the product, unsealed components). * **Examples:** Broken seals, missing inserts, damaged boxes (if box is integral to product presentation), incorrect labeling. **2.6 User Error / Misuse (Distinction)** While not a \"defect\" in the product itself, it is critical for associates to discern between a genuine product defect and damage caused by customer misuse or neglect. This distinction guides the eligibility for return or exchange under [POL-RET-001]. * **Examples:** Water damage to non-waterproof items, physical abuse, alteration of the product, failure to follow care instructions. --- **SECTION 3 — STEP-BY-STEP RESOLUTION PROCEDURE** This section details the mandatory workflow for all associates handling products identified or reported as defective. **3.1 Step 1: Customer Interaction and Initial Assessment** 1. **Acknowledge and Empathize:** Greet the customer professionally. Listen attentively and empathetically to their concerns regarding the product defect. Use",
+        "score": 0.6155
+      },
+      {
+        "doc_id": "order_delay_sop_chunk_32",
+        "content": "of your order\"]. *If re-shipment:* Your new order number is #[New Order Number] and will ship with [Shipping Method]. You can track its progress here: [New Tracking Link]. It is expected to arrive by [New Estimated Delivery Date]. *If refund:* Your refund for [Amount] has been processed and should reflect in your account within [Number] business days. We genuinely regret the inconvenience caused by this delay and thank you for your understanding and continued support. If you have any further questions, please don't hesitate to reach out. Sincerely, The [Your Company Name] Team",
+        "score": 0.6116
+      }
+    ],
+    "suggested_resolution": "Unable to generate AI resolution. Escalate to human support.",
+    "resolution_source": "rag_doc",
+    "human_approved": true,
+    "approver_notes": "Need to check on finance ",
+    "final_status": "resolved",
+    "error_log": [],
+    "retry_count": 0,
+    "_sla_breach": "No",
+    "_priority": "Medium",
+    "_customer_tier": "Silver",
+    "_requires_escalation": "No",
+    "_system_status": "Operational",
+    "metadata": {
+      "severity_model": "azure/gpt-4o",
+      "risk_score": 15,
+      "severity_latency_ms": 2440.56
+    }
+  }
+]

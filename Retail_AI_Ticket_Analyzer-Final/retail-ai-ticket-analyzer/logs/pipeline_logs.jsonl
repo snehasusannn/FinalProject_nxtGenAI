@@ -1,0 +1,2 @@
+{"ticket_id": "TKT-123", "stage": "pipeline", "status": "started", "message": "Pipeline execution started", "timestamp": "2026-05-26T07:00:55.226708"}
+{"ticket_id": "TKT-123", "stage": "pipeline", "status": "completed", "message": "Pipeline execution completed", "timestamp": "2026-05-26T07:01:02.619568"}

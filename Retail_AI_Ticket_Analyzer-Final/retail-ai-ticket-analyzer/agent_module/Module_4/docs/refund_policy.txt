@@ -1,0 +1,409 @@
+# [Company Name] Enterprise Retail Refund Policy
+
+**Document ID:** RRP-V2023.10
+**Version:** 2.0
+**Effective Date:** October 26, 2023
+**Review Date:** October 26, 2024
+**Owner:** Head of Retail Operations
+**Approver(s):** Chief Operating Officer, Chief Financial Officer, General Counsel
+
+---
+
+**Table of Contents**
+
+1.  Introduction
+    1.1. Purpose
+    1.2. Scope
+    1.3. Definitions
+2.  Policy Principles
+3.  Refund Eligibility Criteria
+    3.1. General Conditions
+    3.2. Specific Product Categories
+    3.3. Non-Refundable Items
+    3.4. Proof of Purchase Requirements
+    3.5. Payment Method Restrictions
+    3.6. Damaged, Defective, or Incorrect Items
+4.  Refund Process Workflow
+    4.1. Customer Initiates Return
+    4.2. In-Store Assessment & Processing
+    4.3. Online/Call Center Assessment & Processing
+    4.4. Refund Issuance & Financial Reconciliation
+    4.5. Inventory Management
+5.  Service Level Agreements (SLAs)
+    5.1. Refund Processing Time
+    5.2. Customer Communication Response Times
+    5.3. Funds Availability
+6.  Escalation Rules
+    6.1. Tier 1: Frontline Resolution
+    6.2. Tier 2: Managerial Review
+    6.3. Tier 3: Regional/Head Office Review
+    6.4. Tier 4: Executive/Legal Review
+7.  Audit and Compliance Requirements
+    7.1. Record Keeping
+    7.2. Internal Audits
+    7.3. External Audits & Compliance
+    7.4. Fraud Detection & Prevention
+8.  Customer Communication Guidelines
+    8.1. Policy Visibility
+    8.2. Staff Communication Standards
+    8.3. Online/Digital Communication
+    8.4. Handling Difficult Situations
+9.  Roles and Responsibilities
+10. Policy Review and Updates
+11. Related Policies & Appendices
+
+---
+
+## 1. Introduction
+
+### 1.1. Purpose
+
+The purpose of this Enterprise Retail Refund Policy is to establish a clear, consistent, and legally compliant framework for processing customer refunds across all retail channels (in-store, online, mobile, call center) for [Company Name]. This policy aims to:
+*   Ensure fair and transparent treatment of customers.
+*   Mitigate financial risk and prevent fraud.
+*   Maintain brand reputation and foster customer loyalty.
+*   Provide clear guidelines for all employees involved in the refund process.
+*   Comply with all applicable consumer protection laws and regulations in every operating jurisdiction.
+*   Optimize operational efficiency in handling returns and refunds.
+
+### 1.2. Scope
+
+This policy applies to all products sold and services rendered by [Company Name] and its subsidiaries, across all retail channels and customer interaction points. This includes, but is not limited to, physical retail stores, the company's e-commerce website, mobile applications, and customer service call centers. It governs all employees, contractors, and third-party partners involved in the sales and refund process. Specific exclusions or modifications for certain product categories, promotional items, or services are detailed within Section 3.2.
+
+### 1.3. Definitions
+
+*   **Refund:** The return of funds to a customer for a previously purchased item, typically to the original payment method.
+*   **Exchange:** The return of an item in exchange for a different item of equal or greater value, with any difference paid by the customer.
+*   **Store Credit:** A non-cash refund issued in the form of a gift card, voucher, or digital credit, typically for returns without proof of purchase or outside standard refund windows.
+*   **Proof of Purchase (PoP):** A valid document proving the transaction, such as an original receipt, e-receipt, order confirmation email, or bank statement indicating the transaction.
+*   **Original Condition:** An item that is unused, unworn, unwashed, and in its original packaging with all tags, labels, and accessories intact.
+*   **Defective Item:** A product that is faulty or not fit for its intended purpose due to manufacturing or design flaws.
+*   **Damaged Item:** A product that has incurred physical harm during transit or prior to purchase, not due to customer misuse.
+*   **Return Merchandise Authorization (RMA):** A unique identifier issued for online returns, authorizing the return of a product to a designated facility.
+*   **Frontline Staff:** Sales Associates, Customer Service Representatives, and other employees who are the first point of contact with customers regarding returns.
+*   **Loss Prevention:** The department or function responsible for minimizing financial losses due to theft, fraud, and operational errors.
+
+## 2. Policy Principles
+
+[Company Name] is committed to the following principles in its refund operations:
+*   **Fairness & Transparency:** All refund decisions will be made consistently, based on published policies, and communicated clearly to the customer.
+*   **Customer Centricity (within Policy Limits):** While adhering to policy, employees are encouraged to seek solutions that prioritize a positive customer experience.
+*   **Legal Compliance:** All refund procedures will strictly adhere to local, national, and international consumer protection laws and financial regulations (e.g., PCI DSS for payment processing).
+*   **Fraud Prevention:** Robust measures will be in place to detect and deter fraudulent refund activities, protecting company assets and ensuring fair treatment for all legitimate customers.
+*   **Operational Efficiency:** Processes will be streamlined to ensure timely and accurate refund processing, minimizing customer inconvenience and operational overhead.
+*   **Data Integrity & Privacy:** All customer data collected during the refund process will be handled in accordance with the company's Data Privacy Policy and relevant regulations (e.g., GDPR, CCPA).
+
+## 3. Refund Eligibility Criteria
+
+### 3.1. General Conditions
+
+For a product to be eligible for a refund or exchange, the following general conditions must be met:
+*   **Return Window:** The item must be returned within **30 calendar days** from the original date of purchase (for in-store purchases) or the date of delivery (for online purchases).
+    *   Returns accepted between 31-60 calendar days may be eligible for store credit only, at the discretion of a Store Manager/Customer Service Supervisor.
+*   **Condition:** The item must be in its original, resalable condition, including all original packaging, tags, labels, accessories, and instruction manuals.
+*   **Proof of Purchase:** A valid Proof of Purchase (as defined in Section 3.4) is required for all refunds.
+*   **Reason for Return:** Returns are generally accepted for change of mind, incorrect size/color, or defective/damaged items (see 3.6).
+
+### 3.2. Specific Product Categories
+
+*   **Electronics (e.g., Laptops, Cameras, Smart Devices):**
+    *   Must be returned within **15 calendar days**.
+    *   Must be in original, sealed packaging. If opened, a restocking fee of **15%** may apply, unless deemed defective.
+    *   Data-bearing devices must be factory reset and all personal data erased by the customer prior to return.
+*   **Apparel & Footwear:**
+    *   Must be unworn, unwashed, with all original tags attached.
+    *   Undergarments, swimwear, and earrings are generally non-refundable for hygiene reasons unless defective (see 3.3).
+*   **Perishable Goods (e.g., Food, Flowers):**
+    *   Typically non-refundable due to their nature, unless demonstrably defective or expired at the time of purchase/delivery. Returns must be initiated within **24 hours** of receipt.
+*   **Software, Digital Downloads, & Gift Cards:**
+    *   Generally non-refundable once activated, downloaded, or issued (see 3.3).
+*   **Customized or Personalized Items:**
+    *   Non-refundable, except in cases of manufacturing defect or error on the part of [Company Name].
+*   **Clearance/Final Sale Items:**
+    *   Explicitly marked as "Final Sale" are non-refundable and non-exchangeable.
+
+### 3.3. Non-Refundable Items
+
+The following items are generally non-refundable and non-exchangeable, except where required by law for defects:
+*   Gift Cards (physical or digital)
+*   Used personal care products (e.g., cosmetics, hygiene products)
+*   Undergarments, swimwear, and pierced earrings (for hygiene reasons)
+*   Downloaded software, digital content, or activated subscription services
+*   Items explicitly marked as "Final Sale" or "As-Is"
+*   Items damaged due to customer misuse, negligence, or unauthorized repair attempts.
+
+### 3.4. Proof of Purchase Requirements
+
+*   **Required:** Original sales receipt, e-receipt, order confirmation email, or bank/credit card statement (with transaction details clearly visible and matching company records).
+*   **Missing PoP:** If Proof of Purchase is unavailable, a refund may be issued as store credit for the current selling price or the lowest promotional price within the last 30 days, at the discretion of a Store Manager/Customer Service Supervisor. A valid government-issued ID may be required for store credit issuance to prevent fraud.
+
+### 3.5. Payment Method Restrictions
+
+*   Refunds will only be issued to the original payment method used for the purchase.
+*   If the original payment method is unavailable (e.g., expired credit card), a store credit may be issued. In exceptional circumstances, and with manager approval, a corporate check may be issued after verification (may incur longer processing times).
+*   Cash refunds over a specified threshold (e.g., $50) may require manager approval and be subject to cash availability, potentially resulting in a corporate check.
+
+### 3.6. Damaged, Defective, or Incorrect Items
+
+*   Items found to be damaged, defective, or incorrect upon receipt or within the product's warranty period are eligible for a full refund or exchange.
+*   Customers must report such issues within **7 calendar days** of receipt for prompt resolution.
+*   No restocking fees will apply to defective or incorrect items.
+*   [Company Name] reserves the right to inspect the item to verify the claim of damage or defect.
+
+## 4. Refund Process Workflow
+
+This section outlines the step-by-step procedure for handling refund requests.
+
+### 4.1. Customer Initiates Return
+
+*   **In-Store:** Customer brings item(s) and PoP to any [Company Name] retail location.
+*   **Online/Call Center:** Customer logs into their account on [Company Name] website/app, initiates a return request, or contacts the Customer Service team.
+    *   Customer provides order number, item details, and reason for return.
+    *   A Return Merchandise Authorization (RMA) number is generated and provided to the customer, along with return shipping instructions/label.
+
+### 4.2. In-Store Assessment & Processing (Frontline Staff Responsibility)
+
+1.  **Greeting & Information Gathering:** Greet customer, request item(s) and PoP.
+2.  **PoP Verification:** Validate PoP against system records (POS, ERP).
+3.  **Eligibility Check:**
+    *   Verify return window (Section 3.1).
+    *   Inspect item condition against "Original Condition" (Section 3.1) and specific product criteria (Section 3.2).
+    *   Check if item is non-refundable (Section 3.3).
+4.  **System Entry:** Input return details into the POS system.
+5.  **Managerial Review (If Required):**
+    *   If PoP is missing.
+    *   If item condition is questionable (e.g., minor wear, missing minor accessory).
+    *   For refunds exceeding a defined value threshold (e.g., $250).
+    *   For returns outside the standard window but within the store credit window.
+    *   For suspected fraud (refer to Loss Prevention procedures).
+6.  **Decision & Communication:** Communicate the decision (refund, exchange, store credit, or denial) to the customer, clearly explaining the reasons based on policy.
+7.  **Refund/Exchange Execution:** Process the refund to the original payment method or perform the exchange via the POS system.
+8.  **Receipt/Confirmation:** Provide customer with a refund receipt or exchange confirmation.
+9.  **Item Disposition:** Place the returned item in the designated "Returns" area for inventory processing.
+
+### 4.3. Online/Call Center Assessment & Processing (Customer Service Team Responsibility)
+
+1.  **RMA Generation & Shipping:**
+    *   For approved online return requests, an RMA and pre-paid shipping label (if applicable per policy) are provided to the customer.
+    *   Customer ships the item back to the designated Returns Processing Center.
+2.  **Receipt & Inspection at Returns Processing Center:**
+    *   Upon receipt, items are checked against the RMA.
+    *   Items undergo thorough inspection for condition, completeness, and adherence to eligibility criteria.
+    *   Any discrepancies (e.g., item not as described, condition issues, missing components) are documented, photographed, and flagged.
+3.  **Customer Service Review & Decision:**
+    *   Customer Service agents review inspection notes and photos.
+    *   If discrepancies impact eligibility, customer is contacted for clarification/resolution.
+    *   Managerial review for complex cases, exceptions, or high-value returns.
+4.  **System Processing:**
+    *   Update ERP/OMS system with return status.
+    *   Initiate refund request to the Finance Department.
+5.  **Customer Notification:** Send an email confirmation of refund processing/issuance.
+
+### 4.4. Refund Issuance & Financial Reconciliation (Finance Department Responsibility)
+
+1.  **Verification:** Finance team receives refund requests from POS/ERP systems.
+2.  **Processing:** Initiate refund via payment gateway (credit card, PayPal, etc.).
+3.  **Daily Reconciliation:** Reconcile daily refund transactions against sales data and bank statements.
+4.  **Reporting:** Generate daily/weekly/monthly refund reports for operational and financial analysis.
+
+### 4.5. Inventory Management (Warehouse/Store Operations Responsibility)
+
+1.  **Returned Item Segregation:** Returned items are moved to a specific holding area.
+2.  **Quality Control:** Items are assessed for resalability.
+    *   Resalable items are moved to regular inventory (ERP update: stock adjusted).
+    *   Damaged/defective items are moved to a quarantine area for disposition (repair, salvage, return to vendor, disposal) (ERP update: stock adjusted, reason code applied).
+3.  **System Update:** Ensure accurate inventory adjustments are made in the ERP system to reflect returned items, preventing phantom stock and ensuring accurate financial records.
+
+## 5. Service Level Agreements (SLAs)
+
+### 5.1. Refund Processing Time
+
+*   **In-Store Refunds:**
+    *   **Transaction Time:** Within **5-10 minutes** from the customer presenting the item at the counter, assuming all PoP and eligibility criteria are met.
+    *   **Manager Approval:** If required, manager approval to be obtained within **3 minutes** of initial request.
+*   **Online/Call Center Initiated Refunds:**
+    *   **RMA Generation:** Within **4 business hours** of customer submitting online request during business hours.
+    *   **Item Inspection (at Returns Center):** Within **2 business days** of receipt of the returned package.
+    *   **Refund Initiation (to Finance):** Within **1 business day** following successful inspection and approval.
+
+### 5.2. Customer Communication Response Times
+
+*   **Online Return Request Acknowledgment:** Automated email sent immediately upon submission.
+*   **Customer Service Query (Email/Chat):** Initial response within **24 business hours**.
+*   **Customer Service Query (Phone):** Average wait time less than **5 minutes** during peak hours.
+*   **Refund Confirmation Notification:** Sent within **1 business day** of refund initiation.
+
+### 5.3. Funds Availability
+
+*   **Credit/Debit Card Refunds:** Funds to appear on customer's statement within **3-7 business days** (dependent on bank processing times) from the date of refund initiation by [Company Name].
+*   **PayPal/Digital Wallet Refunds:** Funds to appear in customer's account within **1-2 business days**.
+*   **Corporate Check Refunds:** Check to be mailed within **7-10 business days** from refund approval, with delivery times varying by postal service.
+
+## 6. Escalation Rules
+
+Escalation provides a structured path for resolving complex, contentious, or policy-challenging refund situations, ensuring consistency and preventing undue customer dissatisfaction or potential fraud.
+
+### 6.1. Tier 1: Frontline Resolution
+
+*   **Who:** Sales Associate / Customer Service Representative.
+*   **Trigger:** Routine refund requests meeting all policy criteria. Basic customer inquiries.
+*   **Action:** Process refund directly. If policy is questioned, politely explain the policy.
+*   **Escalate When:**
+    *   Customer disputes policy.
+    *   Customer expresses significant dissatisfaction with the initial decision.
+    *   Return falls into a gray area of policy (e.g., slightly outside window, minor condition issue).
+    *   Refund amount exceeds frontline staff’s authorized limit.
+    *   Suspected fraud or policy abuse.
+
+### 6.2. Tier 2: Managerial Review
+
+*   **Who:** Store Manager / Assistant Manager / Customer Service Supervisor.
+*   **Trigger:** Tier 1 escalation. High-value refunds. Returns without PoP. Returns slightly outside policy (e.g., condition, timeframe) where a resolution is sought to retain customer goodwill. Suspected fraud.
+*   **Action:**
+    *   Review the case details, customer history, and relevant policy sections.
+    *   Engage directly with the customer to understand their perspective and explain the policy decision.
+    *   Decide on exceptions (e.g., issue store credit instead of cash refund, waive minor restocking fee).
+    *   Document the decision and justification in the customer service log/CRM system.
+    *   Consult with Loss Prevention for suspected fraud.
+*   **Escalate When:**
+    *   Customer remains highly dissatisfied after managerial review.
+    *   Request for an exception significantly deviates from policy or involves substantial financial impact.
+    *   Complex legal implications are perceived (e.g., consumer rights dispute).
+    *   Persistent or repeat fraudulent attempts.
+
+### 6.3. Tier 3: Regional/Head Office Review
+
+*   **Who:** Regional Manager / Head of Customer Service / Head of Retail Operations.
+*   **Trigger:** Tier 2 escalation. Legal challenges or threats. Significant negative social media attention. Policy ambiguity requiring executive clarification. High-profile customer cases.
+*   **Action:**
+    *   Thorough review of all previous interactions, documentation, and policy context.
+    *   Direct contact with the customer, if appropriate.
+    *   Consult with Legal Department, Finance, or Loss Prevention as needed.
+    *   Decision on significant policy exceptions, goodwill gestures, or specific resolution strategies.
+    *   Communicate decision and reasoning to the customer and internal teams.
+*   **Escalate When:**
+    *   Legal action is initiated or strongly threatened.
+    *   The issue has major financial, reputational, or systemic implications for the company.
+    *   No satisfactory resolution can be reached at this level, and further executive decision is required.
+
+### 6.4. Tier 4: Executive/Legal Review
+
+*   **Who:** Chief Operating Officer / General Counsel / VP Customer Experience.
+*   **Trigger:** Tier 3 escalation. Active litigation. Government regulatory inquiry. Major policy overhaul implications.
+*   **Action:**
+    *   Comprehensive strategic review of the situation, including legal counsel input.
+    *   Final decision on highly sensitive or critical cases.
+    *   May involve policy amendment or systemic changes based on findings.
+    *   Decision on settlement offers or legal defense strategy.
+    *   Communication through authorized spokespersons.
+
+## 7. Audit and Compliance Requirements
+
+This section ensures the integrity, accuracy, and legal compliance of all refund operations.
+
+### 7.1. Record Keeping
+
+*   All refund transactions, including customer details, item details, reason for return, PoP presented, refund amount, date, time, and staff member processing the return, must be accurately recorded in the POS/ERP/CRM system.
+*   Any manager approvals, policy exceptions, or escalation details must be logged and linked to the transaction record.
+*   Documentation (e.g., photos of damaged items, customer ID for store credit) must be stored securely and in compliance with data retention policies.
+*   Records must be retained for a minimum of **7 years** or as required by local financial and consumer protection laws.
+
+### 7.2. Internal Audits
+
+*   **Daily:** Store Managers/Customer Service Supervisors to perform daily reconciliation of cash and system transactions, including refunds, against physical inventory.
+*   **Weekly:** Regional Managers/Customer Service Managers to review refund reports for trends, anomalies, high-value returns, and frequent returns by specific customers.
+*   **Quarterly:** Internal Audit team to conduct comprehensive audits of refund processes, including:
+    *   Compliance with this policy.
+    *   Accuracy of financial reconciliation.
+    *   Effectiveness of fraud prevention controls.
+    *   Adequacy of record-keeping.
+    *   Adherence to SLAs.
+*   **Annual:** Review of this refund policy itself to ensure continued relevance, effectiveness, and compliance with evolving laws and business practices.
+
+### 7.3. External Audits & Compliance
+
+*   [Company Name] will cooperate fully with any external audits related to financial reporting (e.g., GAAP, IFRS), tax compliance, or consumer protection agencies.
+*   All refund processes must comply with:
+    *   **Payment Card Industry Data Security Standard (PCI DSS):** For secure handling of credit card data.
+    *   **General Data Protection Regulation (GDPR) / California Consumer Privacy Act (CCPA) and other local data privacy laws:** For handling of customer personal information.
+    *   **Consumer Protection Laws:** All applicable laws in jurisdictions where [Company Name] operates (e.g., cooling-off periods, implied warranties).
+
+### 7.4. Fraud Detection & Prevention
+
+*   **System Flags:** POS/ERP systems will be configured with flags for:
+    *   Excessive returns by a single customer.
+    *   Returns without PoP.
+    *   Frequent returns of high-value items.
+    *   Returns shortly after purchase.
+*   **Loss Prevention Involvement:** The Loss Prevention team will:
+    *   Investigate flagged transactions and suspicious patterns.
+    *   Conduct targeted audits.
+    *   Provide training to frontline staff on identifying and preventing refund fraud.
+    *   Collaborate with law enforcement where criminal activity is suspected.
+*   **Staff Training:** Mandatory annual training for all staff involved in refund processing, focusing on policy adherence, fraud indicators, and escalation procedures.
+
+## 8. Customer Communication Guidelines
+
+Clear, consistent, and empathetic communication is paramount to managing customer expectations and upholding brand reputation.
+
+### 8.1. Policy Visibility
+
+*   **In-Store:** A concise version of the refund policy will be clearly displayed at checkout counters, customer service desks, and on store signage. Full policy available upon request.
+*   **Online:** The full, detailed refund policy will be easily accessible on the [Company Name] website (e.g., via a prominent link in the footer, FAQ section, and during the checkout process).
+*   **Transactional Communications:** Key terms of the return policy will be printed on sales receipts and included in order confirmation emails.
+
+### 8.2. Staff Communication Standards
+
+*   **Clarity & Simplicity:** Employees must explain the policy clearly, using plain language, avoiding jargon.
+*   **Consistency:** All employees must communicate the policy consistently, regardless of store location or customer service channel.
+*   **Empathy & Professionalism:** Staff should maintain a professional and empathetic demeanor, even when denying a refund request. Focus on what *can* be done, rather than solely on what cannot.
+*   **"Why" Matters:** When denying a refund, clearly explain *which* specific policy criteria were not met.
+*   **Offer Alternatives:** If a full refund is not possible, offer applicable alternatives such as exchange, store credit, or repair options.
+*   **Documentation:** All significant customer interactions, especially those involving policy exceptions or escalations, must be documented in the customer's profile (CRM).
+
+### 8.3. Online/Digital Communication
+
+*   **Website FAQ:** A comprehensive FAQ section addressing common refund questions.
+*   **Email Templates:** Standardized email templates for return authorizations, refund confirmations, and communications regarding return status or policy exceptions.
+*   **Chatbot/AI:** Integrate refund policy information into customer service chatbots for instant queries.
+
+### 8.4. Handling Difficult Situations
+
+*   **Listen Actively:** Allow the customer to express their concerns fully without interruption.
+*   **De-escalate:** Use calm language, lower your tone, and avoid confrontational phrasing.
+*   **Refer to Policy:** Politely refer to the established policy as the basis for decisions.
+*   **Escalate Appropriately:** When unable to resolve a situation, follow the escalation rules (Section 6) promptly, informing the customer of the next steps.
+*   **Do Not Make Promises:** Never promise an outcome that is outside policy or company capability.
+*   **Safety First:** In cases of extreme customer aggression or threats, prioritize safety and follow established security protocols, including involving security personnel or law enforcement.
+
+## 9. Roles and Responsibilities
+
+*   **Head of Retail Operations:** Policy owner, ensures implementation across all retail channels.
+*   **Head of Customer Service:** Ensures policy adherence, training, and SLA achievement for customer service teams. Manages online return workflow.
+*   **Store Managers/Assistant Managers:** Oversee in-store refund processing, ensure staff training, approve exceptions, handle Tier 2 escalations.
+*   **Sales Associates/Customer Service Representatives:** First-line processing of refunds, adherence to policy, identification of escalation needs.
+*   **Finance Department:** Manages refund issuance, financial reconciliation, and reporting. Ensures compliance with financial regulations.
+*   **Loss Prevention Department:** Develops and implements fraud prevention strategies, investigates suspicious activities, provides training on fraud detection.
+*   **IT Department:** Ensures POS, ERP, CRM, and e-commerce systems support the refund policy, manage data, and provide technical support.
+*   **Legal Department:** Reviews policy for legal compliance, advises on complex customer disputes or litigation.
+
+## 10. Policy Review and Updates
+
+This policy will be formally reviewed on an annual basis (see Review Date on Document Control) or as necessitated by:
+*   Changes in applicable laws or regulations.
+*   Significant changes in company operations, systems, or product offerings.
+*   Emerging fraud trends.
+*   Feedback from internal audits or customer complaints.
+*   The Head of Retail Operations is responsible for initiating and coordinating the review process, involving relevant stakeholders. Any revisions must be approved by the designated approvers (see Document Control) and communicated to all affected personnel.
+
+## 11. Related Policies & Appendices
+
+*   [Company Name] Data Privacy Policy
+*   [Company Name] Loss Prevention Policy
+*   [Company Name] Customer Service Standards
+*   Appendix A: Refund Request Form (Example)
+*   Appendix B: Refund Reason Codes
+
+---
+
+**Disclaimer:** [Company Name] reserves the right to amend this policy at any time without prior notice. The most current version of this policy will always be available on the company's official internal portal and public website. In cases of conflict between this policy and local consumer protection laws, the applicable local laws shall prevail.
