@@ -1,8 +1,0 @@
-
-gradio  
-python-dotenv  
-faiss-cpu  
-numpy  
-pandas  
-google-genai  
-openai  
